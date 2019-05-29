@@ -6,31 +6,13 @@
     <description>Recent content in Tags on Shawn M. O&#39;Hare</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© Shawn M. O’Hare.  &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Some rights reserved&lt;/a&gt;.</copyright>
-    <lastBuildDate>Sun, 08 May 2016 08:48:39 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2017 11:15:01 +0000</lastBuildDate>
     
 	<atom:link href="https://www.shawnohare.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blogger</title>
-      <link>https://www.shawnohare.com/tags/blogger/</link>
-      <pubDate>Sun, 08 May 2016 08:48:39 -0700</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/blogger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Category Theory</title>
-      <link>https://www.shawnohare.com/tags/category-theory/</link>
-      <pubDate>Sun, 12 Jan 2014 14:43:00 +0000</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/category-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Commonmark</title>
+      <title>commonmark</title>
       <link>https://www.shawnohare.com/tags/commonmark/</link>
       <pubDate>Sat, 25 Nov 2017 11:15:01 +0000</pubDate>
       
@@ -39,43 +21,7 @@
     </item>
     
     <item>
-      <title>Exercise</title>
-      <link>https://www.shawnohare.com/tags/exercise/</link>
-      <pubDate>Sun, 05 Jun 2016 11:36:21 -0700</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expectation</title>
-      <link>https://www.shawnohare.com/tags/expectation/</link>
-      <pubDate>Sun, 05 Jun 2016 11:36:21 -0700</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/expectation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://www.shawnohare.com/tags/golang/</link>
-      <pubDate>Sun, 08 May 2016 08:48:39 -0700</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hakyll</title>
-      <link>https://www.shawnohare.com/tags/hakyll/</link>
-      <pubDate>Sun, 08 May 2016 08:48:39 -0700</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/hakyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>https://www.shawnohare.com/tags/hugo/</link>
       <pubDate>Sat, 25 Nov 2017 11:15:01 +0000</pubDate>
       
@@ -84,7 +30,7 @@
     </item>
     
     <item>
-      <title>Latex</title>
+      <title>latex</title>
       <link>https://www.shawnohare.com/tags/latex/</link>
       <pubDate>Sat, 25 Nov 2017 11:15:01 +0000</pubDate>
       
@@ -93,16 +39,7 @@
     </item>
     
     <item>
-      <title>Linear Algebra</title>
-      <link>https://www.shawnohare.com/tags/linear-algebra/</link>
-      <pubDate>Fri, 29 Mar 2013 17:27:00 +0000</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/linear-algebra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
+      <title>markdown</title>
       <link>https://www.shawnohare.com/tags/markdown/</link>
       <pubDate>Sat, 25 Nov 2017 11:15:01 +0000</pubDate>
       
@@ -111,16 +48,7 @@
     </item>
     
     <item>
-      <title>Math</title>
-      <link>https://www.shawnohare.com/tags/math/</link>
-      <pubDate>Thu, 24 Apr 2014 14:05:00 +0000</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mathjax</title>
+      <title>mathjax</title>
       <link>https://www.shawnohare.com/tags/mathjax/</link>
       <pubDate>Sat, 25 Nov 2017 11:15:01 +0000</pubDate>
       
@@ -129,7 +57,52 @@
     </item>
     
     <item>
-      <title>Multi Word Tag</title>
+      <title>exercise</title>
+      <link>https://www.shawnohare.com/tags/exercise/</link>
+      <pubDate>Sun, 05 Jun 2016 11:36:21 -0700</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>expectation</title>
+      <link>https://www.shawnohare.com/tags/expectation/</link>
+      <pubDate>Sun, 05 Jun 2016 11:36:21 -0700</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/expectation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogger</title>
+      <link>https://www.shawnohare.com/tags/blogger/</link>
+      <pubDate>Sun, 08 May 2016 08:48:39 -0700</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/blogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://www.shawnohare.com/tags/golang/</link>
+      <pubDate>Sun, 08 May 2016 08:48:39 -0700</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hakyll</title>
+      <link>https://www.shawnohare.com/tags/hakyll/</link>
+      <pubDate>Sun, 08 May 2016 08:48:39 -0700</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/hakyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi word tag</title>
       <link>https://www.shawnohare.com/tags/multi-word-tag/</link>
       <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -138,25 +111,7 @@
     </item>
     
     <item>
-      <title>Probability</title>
-      <link>https://www.shawnohare.com/tags/probability/</link>
-      <pubDate>Mon, 07 Jul 2014 20:56:00 +0000</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/probability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proof</title>
-      <link>https://www.shawnohare.com/tags/proof/</link>
-      <pubDate>Fri, 29 Mar 2013 16:32:00 +0000</pubDate>
-      
-      <guid>https://www.shawnohare.com/tags/proof/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample</title>
+      <title>sample</title>
       <link>https://www.shawnohare.com/tags/sample/</link>
       <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -165,7 +120,34 @@
     </item>
     
     <item>
-      <title>Statistics</title>
+      <title>probability</title>
+      <link>https://www.shawnohare.com/tags/probability/</link>
+      <pubDate>Mon, 07 Jul 2014 20:56:00 +0000</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://www.shawnohare.com/tags/math/</link>
+      <pubDate>Thu, 24 Apr 2014 14:05:00 +0000</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category theory</title>
+      <link>https://www.shawnohare.com/tags/category-theory/</link>
+      <pubDate>Sun, 12 Jan 2014 14:43:00 +0000</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/category-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
       <link>https://www.shawnohare.com/tags/statistics/</link>
       <pubDate>Tue, 15 Oct 2013 15:54:00 +0000</pubDate>
       
@@ -174,11 +156,20 @@
     </item>
     
     <item>
-      <title>Tf Idf</title>
-      <link>https://www.shawnohare.com/tags/tf-idf/</link>
-      <pubDate>Tue, 10 Dec 2013 19:56:00 +0000</pubDate>
+      <title>linear algebra</title>
+      <link>https://www.shawnohare.com/tags/linear-algebra/</link>
+      <pubDate>Fri, 29 Mar 2013 17:27:00 +0000</pubDate>
       
-      <guid>https://www.shawnohare.com/tags/tf-idf/</guid>
+      <guid>https://www.shawnohare.com/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proof</title>
+      <link>https://www.shawnohare.com/tags/proof/</link>
+      <pubDate>Fri, 29 Mar 2013 16:32:00 +0000</pubDate>
+      
+      <guid>https://www.shawnohare.com/tags/proof/</guid>
       <description></description>
     </item>
     

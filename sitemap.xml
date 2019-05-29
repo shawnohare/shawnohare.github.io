@@ -3,8 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.shawnohare.com/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.shawnohare.com/post/2017/11/ae8073e5-faad-4768-aa20-153731f16de6/</loc>
     <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/post/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/commonmark/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/hugo/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/latex/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/markdown/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/mathjax/</loc>
+    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/categories/</loc>
+    <lastmod>2016-06-05T11:36:21-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,8 +66,62 @@
   </url>
   
   <url>
+    <loc>https://www.shawnohare.com/tags/exercise/</loc>
+    <lastmod>2016-06-05T11:36:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/expectation/</loc>
+    <lastmod>2016-06-05T11:36:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/categories/probability/</loc>
+    <lastmod>2016-06-05T11:36:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/series/migrating-to-hugo/</loc>
+    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.shawnohare.com/post/2016/05/949f15a7-5103-4127-ae16-9b6a04bf6afd/</loc>
     <lastmod>2016-05-08T08:48:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/series/</loc>
+    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/blogger/</loc>
+    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/golang/</loc>
+    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/hakyll/</loc>
+    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/categories/site/</loc>
+    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,8 +130,26 @@
   </url>
   
   <url>
+    <loc>https://www.shawnohare.com/tags/multi-word-tag/</loc>
+    <lastmod>2015-12-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/sample/</loc>
+    <lastmod>2015-12-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.shawnohare.com/post/2014/07/13814340-1ac1-4393-b547-1a2acc6d379d/</loc>
     <lastmod>2014-07-07T20:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/probability/</loc>
+    <lastmod>2014-07-07T20:56:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -38,13 +163,20 @@
   </url>
   
   <url>
+    <loc>https://www.shawnohare.com/tags/math/</loc>
+    <lastmod>2014-04-24T14:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.shawnohare.com/post/2014/01/a140ae29-896b-4813-9ded-eb6a9e211f59/</loc>
     <lastmod>2014-01-12T14:43:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.shawnohare.com/post/2013/12/be46c1b0-3ed0-457b-a135-5887680c17b6/</loc>
-    <lastmod>2013-12-10T19:56:00+00:00</lastmod>
+    <loc>https://www.shawnohare.com/tags/category-theory/</loc>
+    <lastmod>2014-01-12T14:43:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -65,6 +197,12 @@
   <url>
     <loc>https://www.shawnohare.com/post/2013/10/6e1ecf39-cf3c-459f-b4bd-74551fcba229/</loc>
     <lastmod>2013-10-15T15:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/tags/statistics/</loc>
+    <lastmod>2013-10-15T15:54:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -103,6 +241,12 @@
   </url>
   
   <url>
+    <loc>https://www.shawnohare.com/tags/linear-algebra/</loc>
+    <lastmod>2013-03-29T17:27:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.shawnohare.com/post/2013/03/cae61396-547e-4b42-94ad-64f49430d3ce/</loc>
     <lastmod>2013-03-29T17:23:00+00:00</lastmod>
   </url>
@@ -118,159 +262,8 @@
   </url>
   
   <url>
-    <loc>https://www.shawnohare.com/</loc>
-    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/blogger/</loc>
-    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/category-theory/</loc>
-    <lastmod>2014-01-12T14:43:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/groups/clustering/</loc>
-    <lastmod>2013-12-10T19:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/commonmark/</loc>
-    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/categories/data-science/</loc>
-    <lastmod>2013-12-10T19:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/exercise/</loc>
-    <lastmod>2016-06-05T11:36:21-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/expectation/</loc>
-    <lastmod>2016-06-05T11:36:21-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/golang/</loc>
-    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/groups/</loc>
-    <lastmod>2013-12-10T19:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/hakyll/</loc>
-    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/hugo/</loc>
-    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/latex/</loc>
-    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/linear-algebra/</loc>
-    <lastmod>2013-03-29T17:27:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/markdown/</loc>
-    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/math/</loc>
-    <lastmod>2014-04-24T14:05:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.shawnohare.com/categories/math/</loc>
     <lastmod>2013-03-29T16:32:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/mathjax/</loc>
-    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/series/migrating-to-hugo/</loc>
-    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/multi-word-tag/</loc>
-    <lastmod>2015-12-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/groups/nlp/</loc>
-    <lastmod>2013-12-10T19:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/post/</loc>
-    <lastmod>2017-11-25T11:15:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/probability/</loc>
-    <lastmod>2014-07-07T20:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/categories/probability/</loc>
-    <lastmod>2016-06-05T11:36:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -281,38 +274,16 @@
   </url>
   
   <url>
-    <loc>https://www.shawnohare.com/tags/sample/</loc>
-    <lastmod>2015-12-09T00:00:00+00:00</lastmod>
+    <loc>https://www.shawnohare.com/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.shawnohare.com/groups/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.shawnohare.com/series/</loc>
-    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/categories/site/</loc>
-    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/statistics/</loc>
-    <lastmod>2013-10-15T15:54:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/</loc>
-    <lastmod>2016-05-08T08:48:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shawnohare.com/tags/tf-idf/</loc>
-    <lastmod>2013-12-10T19:56:00+00:00</lastmod>
+    <loc>https://www.shawnohare.com/page/</loc>
     <priority>0</priority>
   </url>
   

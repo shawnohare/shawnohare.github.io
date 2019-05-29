@@ -8,7 +8,7 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="author" content="Shawn O’Hare">
-<meta name="generator" content="Hugo 0.38-DEV" />
+<meta name="generator" content="Hugo 0.55.6" />
 
 <link rel="stylesheet" href="https://www.shawnohare.com/css/main.css">
 <link rel="stylesheet" href="https://www.shawnohare.com/css/override.css">
@@ -80,8 +80,6 @@
   <section class="content-main"><p>Many types of universal constructions that appear in a wide variety of mathematical contexts can be realized as categorical limits and colimits.  To define a limit we first need the notion of a cone of a diagram.   A diagram of type <span  class="math">\(J\)</span> in a category <span  class="math">\(\mathcal C\)</span> is a simply a functor <span  class="math">\(F \colon J \to \mathcal C\)</span>.   We imagine <span  class="math">\(J\)</span> as an indexing for the objects and morphisms in <span  class="math">\(\mathcal C\)</span> under consideration. When <span  class="math">\(J\)</span> is a finite category it can be visualized as a directed graph.</p>
 
 <p>A cone of <span  class="math">\(F\)</span> is a pair <span  class="math">\((N, \Psi)\)</span> where <span  class="math">\(N\)</span> is an object of <span  class="math">\(\mathcal C\)</span> and <span  class="math">\(\Psi\)</span> is a collection of <span  class="math">\(\mathcal C\)</span>-morphisms  <span  class="math">\(\Psi_X \colon N \to F(X) \)</span> (one for each object <span  class="math">\(X\)</span> in <span  class="math">\(J\)</span>)  such that <span  class="math">\(\Psi_Y = F(f) \circ \Psi_X\)</span> for every <span  class="math">\(J\)</span>-morphism <span  class="math">\(f \colon X \to Y\)</span>.  Given two cones <span  class="math">\((N, \Psi)\)</span> and <span  class="math">\((M, \Phi)\)</span> we call a <span  class="math">\(\mathcal C\)</span>-morphism  <span  class="math">\(u \colon N \to M\)</span> a cone morphism from <span  class="math">\((N, \Psi)\)</span> to <span  class="math">\((M, \Phi)\)</span> provided that <span  class="math">\(u\)</span> respects the cone property, which is to say that for every object <span  class="math">\(X\)</span> in <span  class="math">\(J\)</span> the morphism <span  class="math">\(\Psi_X\)</span> factors through <span  class="math">\(u\)</span>, i.e., <span  class="math">\(\Psi_X = \Phi_X \circ u\)</span>.  We will write <span  class="math">\(u \colon (N, \Psi) \to (M, \Phi)\)</span> to denote that <span  class="math">\(u\)</span> is a cone morphism.</p>
-
-<p></p>
 
 <p>A limit cone of the diagram <span  class="math">\(F\)</span> is a cone <span  class="math">\((L, \Phi)\)</span> of <span  class="math">\(F\)</span> such that for every other cone <span  class="math">\((N, \Psi)\)</span> of <span  class="math">\(F\)</span>  there exists a unique cone morphism <span  class="math">\(u \colon (N, \Psi) \to (L, \Phi)\)</span>. In this sense a limit <span  class="math">\(L\)</span> is a universal cone. A co-cone and colimit are the corresponding dual notions,  so in particular  a co-cone is a cone of a diagram of type <span  class="math">\(J\)</span> in the opposite category <span  class="math">\(\mathcal C^{op}\)</span>.</p>
 

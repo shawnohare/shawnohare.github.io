@@ -8,7 +8,7 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="author" content="Shawn O’Hare">
-<meta name="generator" content="Hugo 0.38-DEV" />
+<meta name="generator" content="Hugo 0.55.6" />
 
 <link rel="stylesheet" href="https://www.shawnohare.com/css/main.css">
 <link rel="stylesheet" href="https://www.shawnohare.com/css/override.css">
@@ -68,8 +68,6 @@
 
   </section>
   <section class="content-main"><p>For the layperson, it's probably most helpful to think of the density function <span  class="math">\(f\)</span> associated to a random variable <span  class="math">\(X\)</span> as the function you integrate to compute probabilities.  Similarly, the expected value <span  class="math">\(E(X)\)</span> is thought of as the average value that <span  class="math">\(X\)</span> takes.  Often <span  class="math">\(E(X)\)</span> is defined already in terms of the density function, and it's not clear to the beginner why <span  class="math">\(\int_{\mathbb R} x f(x) \ dx\)</span> should compute the expected value of <span  class="math">\(X\)</span>.  What should be perhaps a bit more obvious is that if you integrate <span  class="math">\(X\)</span> over the entire probability space, with respect to the given probability measure, then you obtain the average value of <span  class="math">\(X\)</span>.  This is indeed how the expectation of <span  class="math">\(X\)</span> is typically defined in a more analytical setting.</p>
-
-<p></p>
 
 <p>Given an arbitrary measure space <span  class="math">\((\Omega, \mathcal B, P)\)</span>, a measurable space <span  class="math">\((\Omega, \mathcal B')\)</span>, and a <span  class="math">\((\mathcal B, \mathcal B')\)</span>-measurable map <span  class="math">\(X \colon \Omega \to \Omega'\)</span>, the pushforward <span  class="math">\(P_X(E):=P(X^{-1} (E))\)</span> is a measure on <span  class="math">\(\Omega'\)</span>.  It is easy to verify that if <span  class="math">\(f \colon \Omega' \to \mathbb R\)</span> is any measurable function, then <span  class="math">\(\int_{\Omega'} f \ dP_X = \int_{\Omega} (f \circ X) \ dP\)</span>.</p>
 

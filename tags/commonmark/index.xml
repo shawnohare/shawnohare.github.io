@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Commonmark on Shawn M. O&#39;Hare</title>
+    <title>commonmark on Shawn M. O&#39;Hare</title>
     <link>https://www.shawnohare.com/tags/commonmark/</link>
-    <description>Recent content in Commonmark on Shawn M. O&#39;Hare</description>
+    <description>Recent content in commonmark on Shawn M. O&#39;Hare</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© Shawn M. O’Hare.  &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Some rights reserved&lt;/a&gt;.</copyright>
     <lastBuildDate>Sat, 25 Nov 2017 11:15:01 +0000</lastBuildDate>
@@ -22,9 +22,7 @@
 &lt;p&gt;When writing mathematics in markdown, I prefer a combination of syntactically
 pure but robust LaTeX, portability with respect to markdown processors, and
 aesthetically pleasing in-editor highlighting. Unfortunately, the first two
-constraints often conflict.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+constraints often conflict.&lt;/p&gt;</description>
     </item>
     
   </channel>

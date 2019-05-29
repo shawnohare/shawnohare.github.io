@@ -22,9 +22,7 @@
 &lt;p&gt;When writing mathematics in markdown, I prefer a combination of syntactically
 pure but robust LaTeX, portability with respect to markdown processors, and
 aesthetically pleasing in-editor highlighting. Unfortunately, the first two
-constraints often conflict.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+constraints often conflict.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,9 +32,7 @@ constraints often conflict.&lt;/p&gt;
       
       <guid>https://www.shawnohare.com/post/2016/06/e48c5542-899b-4cb2-bfc3-f5ff20ecfc22/</guid>
       <description>&lt;p&gt;A fun elementary exercise involving expectation is to compute the number of
-times we expect to toss a coin before seeing consecutive heads or tails.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+times we expect to toss a coin before seeing consecutive heads or tails.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,9 +45,7 @@ times we expect to toss a coin before seeing consecutive heads or tails.&lt;/p&g
 and Blogger with any seriousness.  Roughly a year ago I made
 the decision to try a few static site generators.  In hindsight, this proved
 to be a bold decision.  This post will chronicle some aspects
-of this journey.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+of this journey.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -67,9 +61,7 @@ of this journey.&lt;/p&gt;
 &lt;h1 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h1&gt;
 
 &lt;p&gt;Confer &lt;a href=&#34;https://www.shawnohare.com/post/2017/11/ae8073e5-faad-4768-aa20-153731f16de6/&#34;&gt;here&lt;/a&gt; for a more detailed
-discussion.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+discussion.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,9 +94,7 @@ function &lt;span  class=&#34;math&#34;&gt;\(X \colon A \to B\)&lt;/span&gt; ind
 
 &lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\begin{equation*}
 [X_*(\mu)](S \in \mathcal B):= \mu(X^{-1} (S)). 
-\end{equation*}\]&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+\end{equation*}\]&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -113,9 +103,7 @@ function &lt;span  class=&#34;math&#34;&gt;\(X \colon A \to B\)&lt;/span&gt; ind
       <pubDate>Thu, 24 Apr 2014 14:05:00 +0000</pubDate>
       
       <guid>https://www.shawnohare.com/post/2014/04/980b9501-945b-459f-ad8f-3d2d54dbb2ba/</guid>
-      <description>&lt;p&gt;Today we present a (mostly) algebraic proof that the only field endomorphism of the real numbers &lt;span  class=&#34;math&#34;&gt;\(\mathbb R\)&lt;/span&gt; is the identity map.  Many arguments of this fact invoke continuity, which we particularly try to avoid.  To be clear, we require in this discussion that ring morphisms fix the multiplicative identity.    First we recall that any characteristic &lt;span  class=&#34;math&#34;&gt;\(0\)&lt;/span&gt; field has a prime subfield isomorphic to the rationals &lt;span  class=&#34;math&#34;&gt;\(\mathbb Q\)&lt;/span&gt;, so we will always assume characteristic &lt;span  class=&#34;math&#34;&gt;\(0\)&lt;/span&gt; fields contain &lt;span  class=&#34;math&#34;&gt;\(\mathbb Q\)&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Today we present a (mostly) algebraic proof that the only field endomorphism of the real numbers &lt;span  class=&#34;math&#34;&gt;\(\mathbb R\)&lt;/span&gt; is the identity map.  Many arguments of this fact invoke continuity, which we particularly try to avoid.  To be clear, we require in this discussion that ring morphisms fix the multiplicative identity.    First we recall that any characteristic &lt;span  class=&#34;math&#34;&gt;\(0\)&lt;/span&gt; field has a prime subfield isomorphic to the rationals &lt;span  class=&#34;math&#34;&gt;\(\mathbb Q\)&lt;/span&gt;, so we will always assume characteristic &lt;span  class=&#34;math&#34;&gt;\(0\)&lt;/span&gt; fields contain &lt;span  class=&#34;math&#34;&gt;\(\mathbb Q\)&lt;/span&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -126,22 +114,7 @@ function &lt;span  class=&#34;math&#34;&gt;\(X \colon A \to B\)&lt;/span&gt; ind
       <guid>https://www.shawnohare.com/post/2014/01/a140ae29-896b-4813-9ded-eb6a9e211f59/</guid>
       <description>&lt;p&gt;Many types of universal constructions that appear in a wide variety of mathematical contexts can be realized as categorical limits and colimits.  To define a limit we first need the notion of a cone of a diagram.   A diagram of type &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt; in a category &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt; is a simply a functor &lt;span  class=&#34;math&#34;&gt;\(F \colon J \to \mathcal C\)&lt;/span&gt;.   We imagine &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt; as an indexing for the objects and morphisms in &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt; under consideration. When &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt; is a finite category it can be visualized as a directed graph.&lt;/p&gt;
 
-&lt;p&gt;A cone of &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; is a pair &lt;span  class=&#34;math&#34;&gt;\((N, \Psi)\)&lt;/span&gt; where &lt;span  class=&#34;math&#34;&gt;\(N\)&lt;/span&gt; is an object of &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\(\Psi\)&lt;/span&gt; is a collection of &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt;-morphisms  &lt;span  class=&#34;math&#34;&gt;\(\Psi_X \colon N \to F(X) \)&lt;/span&gt; (one for each object &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; in &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt;)  such that &lt;span  class=&#34;math&#34;&gt;\(\Psi_Y = F(f) \circ \Psi_X\)&lt;/span&gt; for every &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt;-morphism &lt;span  class=&#34;math&#34;&gt;\(f \colon X \to Y\)&lt;/span&gt;.  Given two cones &lt;span  class=&#34;math&#34;&gt;\((N, \Psi)\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\((M, \Phi)\)&lt;/span&gt; we call a &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt;-morphism  &lt;span  class=&#34;math&#34;&gt;\(u \colon N \to M\)&lt;/span&gt; a cone morphism from &lt;span  class=&#34;math&#34;&gt;\((N, \Psi)\)&lt;/span&gt; to &lt;span  class=&#34;math&#34;&gt;\((M, \Phi)\)&lt;/span&gt; provided that &lt;span  class=&#34;math&#34;&gt;\(u\)&lt;/span&gt; respects the cone property, which is to say that for every object &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; in &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt; the morphism &lt;span  class=&#34;math&#34;&gt;\(\Psi_X\)&lt;/span&gt; factors through &lt;span  class=&#34;math&#34;&gt;\(u\)&lt;/span&gt;, i.e., &lt;span  class=&#34;math&#34;&gt;\(\Psi_X = \Phi_X \circ u\)&lt;/span&gt;.  We will write &lt;span  class=&#34;math&#34;&gt;\(u \colon (N, \Psi) \to (M, \Phi)\)&lt;/span&gt; to denote that &lt;span  class=&#34;math&#34;&gt;\(u\)&lt;/span&gt; is a cone morphism.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>TF-IDF for Document Clustering</title>
-      <link>https://www.shawnohare.com/post/2013/12/be46c1b0-3ed0-457b-a135-5887680c17b6/</link>
-      <pubDate>Tue, 10 Dec 2013 19:56:00 +0000</pubDate>
-      
-      <guid>https://www.shawnohare.com/post/2013/12/be46c1b0-3ed0-457b-a135-5887680c17b6/</guid>
-      <description>&lt;p&gt;In this post we discuss a standard way to encode a text document as a vector
-using a term frequency-inverse document frequency (tf-idf) score for each
-word,  with an aim to cluster similar documents in a corpus.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;A cone of &lt;span  class=&#34;math&#34;&gt;\(F\)&lt;/span&gt; is a pair &lt;span  class=&#34;math&#34;&gt;\((N, \Psi)\)&lt;/span&gt; where &lt;span  class=&#34;math&#34;&gt;\(N\)&lt;/span&gt; is an object of &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\(\Psi\)&lt;/span&gt; is a collection of &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt;-morphisms  &lt;span  class=&#34;math&#34;&gt;\(\Psi_X \colon N \to F(X) \)&lt;/span&gt; (one for each object &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; in &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt;)  such that &lt;span  class=&#34;math&#34;&gt;\(\Psi_Y = F(f) \circ \Psi_X\)&lt;/span&gt; for every &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt;-morphism &lt;span  class=&#34;math&#34;&gt;\(f \colon X \to Y\)&lt;/span&gt;.  Given two cones &lt;span  class=&#34;math&#34;&gt;\((N, \Psi)\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\((M, \Phi)\)&lt;/span&gt; we call a &lt;span  class=&#34;math&#34;&gt;\(\mathcal C\)&lt;/span&gt;-morphism  &lt;span  class=&#34;math&#34;&gt;\(u \colon N \to M\)&lt;/span&gt; a cone morphism from &lt;span  class=&#34;math&#34;&gt;\((N, \Psi)\)&lt;/span&gt; to &lt;span  class=&#34;math&#34;&gt;\((M, \Phi)\)&lt;/span&gt; provided that &lt;span  class=&#34;math&#34;&gt;\(u\)&lt;/span&gt; respects the cone property, which is to say that for every object &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; in &lt;span  class=&#34;math&#34;&gt;\(J\)&lt;/span&gt; the morphism &lt;span  class=&#34;math&#34;&gt;\(\Psi_X\)&lt;/span&gt; factors through &lt;span  class=&#34;math&#34;&gt;\(u\)&lt;/span&gt;, i.e., &lt;span  class=&#34;math&#34;&gt;\(\Psi_X = \Phi_X \circ u\)&lt;/span&gt;.  We will write &lt;span  class=&#34;math&#34;&gt;\(u \colon (N, \Psi) \to (M, \Phi)\)&lt;/span&gt; to denote that &lt;span  class=&#34;math&#34;&gt;\(u\)&lt;/span&gt; is a cone morphism.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -150,9 +123,7 @@ word,  with an aim to cluster similar documents in a corpus.&lt;/p&gt;
       <pubDate>Thu, 05 Dec 2013 22:40:00 +0000</pubDate>
       
       <guid>https://www.shawnohare.com/post/2013/12/835b517b-caa4-48ad-b5c4-b9c19d6d363e/</guid>
-      <description>&lt;p&gt;I recently heard of an interesting &amp;quot;proof&amp;quot; that &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt; does not have cardinality &lt;span  class=&#34;math&#34;&gt;\(\aleph_1\)&lt;/span&gt;.  This would disprove the Continuum Hypothesis  (&lt;span  class=&#34;math&#34;&gt;\(\textbf{CH}\)&lt;/span&gt;), which asserts that any subset of &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt; is either countable or has the same cardinality as &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt;.   More precisely, &lt;span  class=&#34;math&#34;&gt;\(\textbf{CH}\)&lt;/span&gt; states that  if &lt;span  class=&#34;math&#34;&gt;\(\omega_0\)&lt;/span&gt; denotes the first countable ordinal (i.e., the set of natural numbers) and &lt;span  class=&#34;math&#34;&gt;\(\omega_1\)&lt;/span&gt; denotes the first uncountable ordinal, then   &lt;span  class=&#34;math&#34;&gt;\(| \omega_1| = | 2^{\omega_0}|\)&lt;/span&gt;.  Here &lt;span  class=&#34;math&#34;&gt;\(2^{\omega_0}\)&lt;/span&gt; is the set of all binary-valued functions &lt;span  class=&#34;math&#34;&gt;\(f \colon \omega_0 \to \{ 0, 1\}\)&lt;/span&gt;, which has the same cardinality as the power set of &lt;span  class=&#34;math&#34;&gt;\(\omega_0\)&lt;/span&gt; and as &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I recently heard of an interesting &amp;quot;proof&amp;quot; that &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt; does not have cardinality &lt;span  class=&#34;math&#34;&gt;\(\aleph_1\)&lt;/span&gt;.  This would disprove the Continuum Hypothesis  (&lt;span  class=&#34;math&#34;&gt;\(\textbf{CH}\)&lt;/span&gt;), which asserts that any subset of &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt; is either countable or has the same cardinality as &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt;.   More precisely, &lt;span  class=&#34;math&#34;&gt;\(\textbf{CH}\)&lt;/span&gt; states that  if &lt;span  class=&#34;math&#34;&gt;\(\omega_0\)&lt;/span&gt; denotes the first countable ordinal (i.e., the set of natural numbers) and &lt;span  class=&#34;math&#34;&gt;\(\omega_1\)&lt;/span&gt; denotes the first uncountable ordinal, then   &lt;span  class=&#34;math&#34;&gt;\(| \omega_1| = | 2^{\omega_0}|\)&lt;/span&gt;.  Here &lt;span  class=&#34;math&#34;&gt;\(2^{\omega_0}\)&lt;/span&gt; is the set of all binary-valued functions &lt;span  class=&#34;math&#34;&gt;\(f \colon \omega_0 \to \{ 0, 1\}\)&lt;/span&gt;, which has the same cardinality as the power set of &lt;span  class=&#34;math&#34;&gt;\(\omega_0\)&lt;/span&gt; and as &lt;span  class=&#34;math&#34;&gt;\((0,1)\)&lt;/span&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -163,9 +134,7 @@ word,  with an aim to cluster similar documents in a corpus.&lt;/p&gt;
       <guid>https://www.shawnohare.com/post/2013/11/540d6737-0759-475b-9a99-7bdbba2d03dd/</guid>
       <description>&lt;p&gt;In this post we will justify some common divisibility tests that most school children are familiar with.  Recall that a number such as &lt;span  class=&#34;math&#34;&gt;\(111\)&lt;/span&gt; is divisible by &lt;span  class=&#34;math&#34;&gt;\(3\)&lt;/span&gt; if and only if the sum of the digits is  divisible by &lt;span  class=&#34;math&#34;&gt;\(3\)&lt;/span&gt;.  Since &lt;span  class=&#34;math&#34;&gt;\(1+1+1=3\)&lt;/span&gt; is divisible by &lt;span  class=&#34;math&#34;&gt;\(3\)&lt;/span&gt;,  we see that &lt;span  class=&#34;math&#34;&gt;\(111\)&lt;/span&gt; is divisible by three.&lt;/p&gt;
 
-&lt;p&gt;More generally, an integer &lt;span  class=&#34;math&#34;&gt;\(N\)&lt;/span&gt; is divisible by &lt;span  class=&#34;math&#34;&gt;\(3\)&lt;/span&gt; if and only if the sum of the digits appearing in &lt;span  class=&#34;math&#34;&gt;\(N\)&lt;/span&gt; is divisible by &lt;span  class=&#34;math&#34;&gt;\(3\)&lt;/span&gt;. &lt;div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;More generally, an integer &lt;span  class=&#34;math&#34;&gt;\(N\)&lt;/span&gt; is divisible by &lt;span  class=&#34;math&#34;&gt;\(3\)&lt;/span&gt; if and only if the sum of the digits appearing in &lt;span  class=&#34;math&#34;&gt;\(N\)&lt;/span&gt; is divisible by &lt;span  class=&#34;math&#34;&gt;\(3\)&lt;/span&gt;. &lt;div&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -186,9 +155,7 @@ word,  with an aim to cluster similar documents in a corpus.&lt;/p&gt;
   H_{2n} &amp;= H_n + \frac{1}{n+1} + \dots + \frac{1}{2n} \\  &amp; \geq H_n + \underbrace{\frac{1}{2n} + \dots + \frac{1}{2n}}_{n \text{ terms}} \\  &amp; = H_n + \frac{1}{2}.
 \end{align*}\]&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;In particular, &lt;span  class=&#34;math&#34;&gt;\(H_{2^n} \geq 1 + \frac{n}{2}\)&lt;/span&gt;, so the sequence of partial sums of the harmonic series has an unbounded subsequence, whence the series diverges.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;In particular, &lt;span  class=&#34;math&#34;&gt;\(H_{2^n} \geq 1 + \frac{n}{2}\)&lt;/span&gt;, so the sequence of partial sums of the harmonic series has an unbounded subsequence, whence the series diverges.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -246,9 +213,7 @@ word,  with an aim to cluster similar documents in a corpus.&lt;/p&gt;
 
 &lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\begin{equation*}
   \widehat \beta =  (\mathbf X^T \mathbf X)^{-1} \mathbf X^T \mathbf y. 
-\end{equation*}\]&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+\end{equation*}\]&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -269,9 +234,7 @@ word,  with an aim to cluster similar documents in a corpus.&lt;/p&gt;
       <description>&lt;p&gt;As an example of the law of total probabilities, I&#39;m going to explore a slightly generalized variant of an interview question I recently encountered.&lt;br&gt;
 The basic scenario is to imagine two players, let&#39;s say Amanda and Bill, both of who have a weighted coin. They take turns tossing their coin and whoever obtains the first heads wins.
 Amanda&#39;s coin comes up heads with probability &lt;span  class=&#34;math&#34;&gt;\(\theta\)&lt;/span&gt; and Bill&#39;s with probability &lt;span  class=&#34;math&#34;&gt;\(\psi\)&lt;/span&gt;.
-If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -280,9 +243,7 @@ If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;
       <pubDate>Sat, 27 Jul 2013 17:27:00 +0000</pubDate>
       
       <guid>https://www.shawnohare.com/post/2013/07/4e11d870-63b1-4d04-8f52-05eefd53a9ce/</guid>
-      <description>&lt;p&gt;Soon after one begins a study of abstract vector spaces, they are confronted with the fact that a finite dimensional vector space is naturally (or canonically) isomorphic to its double dual space.  Intuitively, this means that the isomorphism is somehow independent of any particular choice of basis.  This notion is made rigorous  with the notion of natural transformations of functors between categories.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Soon after one begins a study of abstract vector spaces, they are confronted with the fact that a finite dimensional vector space is naturally (or canonically) isomorphic to its double dual space.  Intuitively, this means that the isomorphism is somehow independent of any particular choice of basis.  This notion is made rigorous  with the notion of natural transformations of functors between categories.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -291,9 +252,7 @@ If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;
       <pubDate>Mon, 24 Jun 2013 11:40:00 +0000</pubDate>
       
       <guid>https://www.shawnohare.com/post/2013/06/22130f0c-9527-428f-96ea-dbf1f3dd6905/</guid>
-      <description>&lt;p&gt;For the layperson, it&#39;s probably most helpful to think of the density function &lt;span  class=&#34;math&#34;&gt;\(f\)&lt;/span&gt; associated to a random variable &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; as the function you integrate to compute probabilities.  Similarly, the expected value &lt;span  class=&#34;math&#34;&gt;\(E(X)\)&lt;/span&gt; is thought of as the average value that &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; takes.  Often &lt;span  class=&#34;math&#34;&gt;\(E(X)\)&lt;/span&gt; is defined already in terms of the density function, and it&#39;s not clear to the beginner why &lt;span  class=&#34;math&#34;&gt;\(\int_{\mathbb R} x f(x) \ dx\)&lt;/span&gt; should compute the expected value of &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt;.  What should be perhaps a bit more obvious is that if you integrate &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; over the entire probability space, with respect to the given probability measure, then you obtain the average value of &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt;.  This is indeed how the expectation of &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; is typically defined in a more analytical setting.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;For the layperson, it&#39;s probably most helpful to think of the density function &lt;span  class=&#34;math&#34;&gt;\(f\)&lt;/span&gt; associated to a random variable &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; as the function you integrate to compute probabilities.  Similarly, the expected value &lt;span  class=&#34;math&#34;&gt;\(E(X)\)&lt;/span&gt; is thought of as the average value that &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; takes.  Often &lt;span  class=&#34;math&#34;&gt;\(E(X)\)&lt;/span&gt; is defined already in terms of the density function, and it&#39;s not clear to the beginner why &lt;span  class=&#34;math&#34;&gt;\(\int_{\mathbb R} x f(x) \ dx\)&lt;/span&gt; should compute the expected value of &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt;.  What should be perhaps a bit more obvious is that if you integrate &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; over the entire probability space, with respect to the given probability measure, then you obtain the average value of &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt;.  This is indeed how the expectation of &lt;span  class=&#34;math&#34;&gt;\(X\)&lt;/span&gt; is typically defined in a more analytical setting.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -322,9 +281,7 @@ If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;
   \mathbf{1}:=\begin{pmatrix}   1 &amp; 0 \\   0 &amp; 1  \end{pmatrix}, 
 \end{equation*}\]&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;which is the multiplicative identity in &lt;span  class=&#34;math&#34;&gt;\(M_2(\mathbb R)\)&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;which is the multiplicative identity in &lt;span  class=&#34;math&#34;&gt;\(M_2(\mathbb R)\)&lt;/span&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -333,9 +290,7 @@ If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;
       <pubDate>Fri, 29 Mar 2013 17:27:00 +0000</pubDate>
       
       <guid>https://www.shawnohare.com/post/2013/03/c7b5f3e2-7b55-4a84-84b8-9ea6f91f84f0/</guid>
-      <description>&lt;p&gt;While teaching an introductory linear algebra course, a colleague noticed that most of the examples of additive maps he gave turned out to be linear.  He asked whether I could think of a map which was additive, but not linear.  In a general context, the question was to find a ring &lt;span  class=&#34;math&#34;&gt;\(R\)&lt;/span&gt;, &lt;span  class=&#34;math&#34;&gt;\(R\)&lt;/span&gt;-modules &lt;span  class=&#34;math&#34;&gt;\( V\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\( W\)&lt;/span&gt;, and a map &lt;span  class=&#34;math&#34;&gt;\( f \colon V \to W\)&lt;/span&gt; such that &lt;span  class=&#34;math&#34;&gt;\( f \)&lt;/span&gt; is a group homomorphism, but not an &lt;span  class=&#34;math&#34;&gt;\( R\)&lt;/span&gt;-module morphism, i.e, &lt;span  class=&#34;math&#34;&gt;\( f(x+y)=f(x)+f(y)\)&lt;/span&gt; for all &lt;span  class=&#34;math&#34;&gt;\( x,y \in V,\)&lt;/span&gt; but there is some &lt;span  class=&#34;math&#34;&gt;\( r \in R\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\( z \in V\)&lt;/span&gt; such that &lt;span  class=&#34;math&#34;&gt;\( f(r \cdot z) \neq r \cdot f(z)\)&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;While teaching an introductory linear algebra course, a colleague noticed that most of the examples of additive maps he gave turned out to be linear.  He asked whether I could think of a map which was additive, but not linear.  In a general context, the question was to find a ring &lt;span  class=&#34;math&#34;&gt;\(R\)&lt;/span&gt;, &lt;span  class=&#34;math&#34;&gt;\(R\)&lt;/span&gt;-modules &lt;span  class=&#34;math&#34;&gt;\( V\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\( W\)&lt;/span&gt;, and a map &lt;span  class=&#34;math&#34;&gt;\( f \colon V \to W\)&lt;/span&gt; such that &lt;span  class=&#34;math&#34;&gt;\( f \)&lt;/span&gt; is a group homomorphism, but not an &lt;span  class=&#34;math&#34;&gt;\( R\)&lt;/span&gt;-module morphism, i.e, &lt;span  class=&#34;math&#34;&gt;\( f(x+y)=f(x)+f(y)\)&lt;/span&gt; for all &lt;span  class=&#34;math&#34;&gt;\( x,y \in V,\)&lt;/span&gt; but there is some &lt;span  class=&#34;math&#34;&gt;\( r \in R\)&lt;/span&gt; and &lt;span  class=&#34;math&#34;&gt;\( z \in V\)&lt;/span&gt; such that &lt;span  class=&#34;math&#34;&gt;\( f(r \cdot z) \neq r \cdot f(z)\)&lt;/span&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -348,9 +303,7 @@ If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;
 
 &lt;p&gt;We define a symmetry of the natural numbers to be any bijective function &lt;span  class=&#34;math&#34;&gt;\( f \colon \mathbb{N} \to \mathbb{N}\)&lt;/span&gt;.  Let &lt;span  class=&#34;math&#34;&gt;\( S\)&lt;/span&gt; denote the set of symmetries of &lt;span  class=&#34;math&#34;&gt;\( \mathbb N\)&lt;/span&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Claim&lt;/b&gt;.  &lt;span  class=&#34;math&#34;&gt;\( S\)&lt;/span&gt; has the cardinality of the continuum.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;b&gt;Claim&lt;/b&gt;.  &lt;span  class=&#34;math&#34;&gt;\( S\)&lt;/span&gt; has the cardinality of the continuum.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -362,9 +315,7 @@ If Amanda tosses first, what&#39;s the probability she will win?&lt;/p&gt;
       <description>&lt;p&gt;A fun fact I recently learned about is the following.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Claim &lt;/b&gt;.  A natural number can be written as the sum of at least two
-consecutive positive integers if and only if it is not a power of 2.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+consecutive positive integers if and only if it is not a power of 2.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -377,9 +328,7 @@ consecutive positive integers if and only if it is not a power of 2.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;The &amp;quot;Proof&amp;quot;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;As a base case, it&#39;s clear that any horse is the same color as itself.  Assume as an inductive hypothesis that any collection of n horses are the same color, where n is some fixed natural number.  Given any collection of n+1 horses, we may select a subset consisting of all but a single horse.  By the inductive hypothesis, all the horses in this subset are the same color.  Now regroup the horses and select another n horse subset, but this time we pick the horse that left out of the first selection.  Again all the horses in this subset are the same color, so all the horses in the original set are the same color.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;As a base case, it&#39;s clear that any horse is the same color as itself.  Assume as an inductive hypothesis that any collection of n horses are the same color, where n is some fixed natural number.  Given any collection of n+1 horses, we may select a subset consisting of all but a single horse.  By the inductive hypothesis, all the horses in this subset are the same color.  Now regroup the horses and select another n horse subset, but this time we pick the horse that left out of the first selection.  Again all the horses in this subset are the same color, so all the horses in the original set are the same color.&lt;/p&gt;</description>
     </item>
     
   </channel>
